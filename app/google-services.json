@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804383888139",
+    "project_id": "one88---nh-ci-uy-tn---cht-lng",
+    "storage_bucket": "one88---nh-ci-uy-tn---cht-lng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804383888139:android:d861fca638d7a1b971880e",
+        "android_client_info": {
+          "package_name": "io.giodude.one888"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804383888139-dlgf1sliqn406gh26p2kgl2kuit1njnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPijWWBfAicC0Vc33iRB7t4m-uOVb0f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804383888139-dlgf1sliqn406gh26p2kgl2kuit1njnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

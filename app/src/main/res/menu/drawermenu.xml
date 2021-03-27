@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Trang Chủ"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:id="@+id/team"
+        android:enabled="true"
+        android:title="Đội"
+        android:icon="@drawable/jersey"
+        />
+    <item
+        android:id="@+id/player"
+        android:enabled="true"
+        android:title="Cầu thủ"
+        android:icon="@drawable/poeple"
+        />
+    <item
+        android:id="@+id/liveplay"
+        android:enabled="true"
+        android:title="Trục tiếp trận đấu"
+        android:icon="@drawable/liveicon"
+        />
+    <item
+        android:id="@+id/pátplay"
+        android:enabled="true"
+        android:title="Trước trận đấu"
+        android:icon="@drawable/previous"
+/>
+</menu>
